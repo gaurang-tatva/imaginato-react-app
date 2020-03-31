@@ -33,7 +33,7 @@ Your app is ready to be deployed!
 ### Application Snapshot
 ![Application snapshot](screenshots/orders.PNG)
 ![Application snapshot](screenshots/view-order.PNG)
-![Application snapshot](screenshots/add-order.PNG)
+![Application snapshot](screenshots/add-order-modal.PNG)
 ![Application snapshot](screenshots/edit-order.PNG)
 ![Application snapshot](screenshots/search.PNG)
 ![Application snapshot](screenshots/mobile-view.PNG)
